@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "kick-off-koa",
-		"verify": "kick-off-koa verify program.js"
+    "verify": "kick-off-koa verify program.js"
   },
   "dependencies": {
     "co-body": "^6.0.0",
