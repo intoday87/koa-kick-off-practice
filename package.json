@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "kick-off-koa",
+		"verify": "kick-off-koa verify program.js"
+  },
+  "dependencies": {
+    "co-body": "^6.0.0",
+    "co-views": "^2.1.0",
+    "ejs": "^2.6.1",
+    "kick-off-koa": "^2.0.0",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-session": "^5.10.1"
+  }
+}
